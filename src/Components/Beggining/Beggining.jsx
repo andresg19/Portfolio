@@ -6,7 +6,7 @@ const Beggining = () => {
     return ( 
         <div className="grid grid-cols-2 divide-x">
         <div className='border-none min-h-[40vh]'>
-        <img src='/avatar-maker.png' alt='img not found'  className='mx-auto w-[80%] lg:w-[35%]'/>
+        <img src='/Avatar-Maker.png' alt='img not found'  className='mx-auto w-[80%] lg:w-[35%]'/>
        </div>
         <div className='text-2xl border-none mt-[12%] text-white lg:text-4xl lg:ml-[20%]'>
         <Typewriter
