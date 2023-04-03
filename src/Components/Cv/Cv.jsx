@@ -4,7 +4,7 @@ import React from 'react';
 export default function Cv () {
    
     const handleViewCv = (e) => {
-        window.open('./CV-Andrés-Germain.pdf')
+        window.open('./Germain-Andrés-CV.pdf')
     }
 
     return ( 
