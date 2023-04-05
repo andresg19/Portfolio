@@ -1,7 +1,7 @@
 export const info = [
     {description : 'Proyecto Final realizado en grupo bajo metodología SCRUM con todas las herramientas vistas en el bootcamp entre otras que se investigaron en grupo para poder adaptarlas al mismo proyecto. E-commerce de bebidas alcohólicas.',
      image : '/bartoni.png',
-    deploy: 'https://elbardetonibebidas.vercel.app/'},
+    deploy: 'https://www.youtube.com/watch?v=GGwUpytD8Hw'},
     {description: 'Crypto Finance, proyecto frontend utilizando React-Query para la obtención de los datos necesarios. Cotizaciones promedio del tiempo real por cada moneda en el ranking.',
      image : '/crypto.png' ,
      deploy: 'https://cryptofinance-theta.vercel.app/'
