@@ -6,8 +6,8 @@ export const info = [
      image : '/crypto.png' ,
      deploy: 'https://cryptofinance-theta.vercel.app/'
     },
-    {description : 'Proyecto individual realizado en el bootcamp previo a pasar a la etapa del proyecto final, el mismo cuenta con todas las herramientas vistas en el bootcamp. Single Page con información sobre Pokémons',
-     image : '/pokemon.png',
-     deploy: 'https://front-deploy-navy.vercel.app/'
+    {description : 'Clon de la página inicial de Mercado Libre, proyecto frontend. Consume api rest en backend express para obtener productos y renderizarlos.',
+     image : '/meli.png',
+     deploy: 'https://meli-clone-two.vercel.app/'
     },
 ]
